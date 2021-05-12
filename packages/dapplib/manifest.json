@@ -1,0 +1,14 @@
+{
+    "name": "AMMADEFI",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/collection/entity": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "AMMA",
+        "/category/asset_value_tracking/token/symbol": "AMMA",
+        "/category/asset_value_tracking/token/decimals": "11",
+        "/category/asset_value_tracking/token/supply": "100000000"
+    }
+}
